@@ -21,7 +21,7 @@ kneed==0.5.1
 MarkupSafe==1.1.1
 matplotlib==3.1.2
 more-itertools==8.1.0
-numpy==1.18.1
+numpy
 pandas==0.25.3
 psutil==5.6.7
 pyparsing==2.4.6
@@ -31,6 +31,7 @@ pytz==2019.3
 PyYAML==5.3
 regexp==0.1
 scikit-learn==0.22.1
+scipy
 six==1.14.0
 sklearn==0.0
 sklearn-pandas==1.8.0
